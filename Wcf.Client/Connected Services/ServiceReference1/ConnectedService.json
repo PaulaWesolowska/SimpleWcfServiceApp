@@ -1,0 +1,43 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:63596/Service1.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\Accessibility.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Activities.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Activities.DurableInstancing.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Configuration.Install.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Data.OracleClient.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Deployment.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Design.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.DirectoryServices.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Drawing.Design.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.EnterpriseServices.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.IdentityModel.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.IdentityModel.Selectors.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Messaging.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Runtime.DurableInstancing.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Runtime.Remoting.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Runtime.Serialization.Formatters.Soap.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.ServiceModel.Activation.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.ServiceModel.Activities.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.ServiceModel.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Web.ApplicationServices.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Web.RegularExpressions.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Web.Services.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Windows.Forms.dll",
+      "C:\\Users\\paula\\source\\repos\\WcfService3\\Wcf.Client\\bin\\Debug\\net6.0\\System.Xaml.dll"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
